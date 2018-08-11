@@ -26,5 +26,6 @@ cd tendermint/
   source = "https://github.com/grpc/grpc-go.git"
   
   
-  
+  下载net 到 golang.org/x/ 里
+  git clone https://github.com/golang/net.git
   
